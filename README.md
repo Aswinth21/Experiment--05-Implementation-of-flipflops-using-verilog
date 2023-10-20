@@ -201,3 +201,4 @@ endmodule
 
 
 ### RESULTS 
+Successfully implemented all the flipflops using verilog and validated their functionality using their functional tables
